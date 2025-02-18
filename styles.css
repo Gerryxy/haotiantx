@@ -58,7 +58,7 @@ section {
 }
 
 .hero {
-    background-image:url('../images/communication-bg.jpg');
+    background-image:url('communication-bg.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
